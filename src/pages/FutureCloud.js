@@ -38,8 +38,7 @@ export default function FutureCloud(){
                     <div className="flex flex-2">
                         <Card className="box">
                             <Card.Body>
-                                <iframe width="1280" height="720" src="https://www.youtube.com/embed/_A35iscimSw" 
-                                    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="1280" height="720" src="https://www.youtube.com/embed/qkCSQLSx-R0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </Card.Body>
                         </Card>
                     </div>

@@ -76,7 +76,7 @@ export default function Home(){
                             <span><b>E-mail:</b>1118783@imed.edu.br</span>
                             <br/><br/>
                             <div>
-                                <a href="#">
+                                <a href="https://www.linkedin.com/in/oscar-gross-891534137">
                                     <img src={require('../images/icons/linkedin.png')} style={{width: '2em', height: '2em', margin: '0 1em 0 0'}} />
                                 </a>
                                 <a href="https://www.instagram.com/oscar.gross/">
